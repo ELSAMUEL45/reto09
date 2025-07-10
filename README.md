@@ -1,4 +1,4 @@
-# reto09
+# reto10
 # Punto 1: Suma/Resta de matrices con validación
 ```
 def suma_resta_matrices(matriz1, matriz2, operacion):
